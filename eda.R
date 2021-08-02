@@ -12,6 +12,7 @@ options(scipen = 999) # para evitar notacao cientifica.
 # Pacotes
 library(PNADcIBGE)
 library(survey)
+library(dplyr)
 
 ###--------------------------------------------------------------------------###
 
